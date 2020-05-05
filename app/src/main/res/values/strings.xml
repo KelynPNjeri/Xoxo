@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">xoxo</string>
+    <string name="user_profile">button to go to user profile</string>
+    <string name="matched">messages from matches</string>
+    <string name="browse">browse more profiles</string>
+    <string name="Swipe_me">Profile Images go here</string>
+    <string name="swipe_image_placeholder">Image placeholder</string>
 </resources>
